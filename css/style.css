@@ -87,7 +87,7 @@
 
       .main-title {
         font-family: "Bebas Neue", sans-serif;
-        font-size: 8rem;
+        font-size: 11rem;
         font-weight: 900;
         color: #ffffffe3;
         text-align: center;
@@ -125,7 +125,7 @@
         font-size: 3rem;
         position: absolute;
         top: 0;
-        left: 70%;
+        left: 75%;
         transform: translate(-50%, -50%) rotate(-15deg);
         background: var(--sparkle-color);
         padding: 13px 50px;
